@@ -1,0 +1,3 @@
+// ratings_controller.js – Submit a rating and review
+
+...

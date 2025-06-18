@@ -1,0 +1,1 @@
+// ratings.js – Ratings route placeholder

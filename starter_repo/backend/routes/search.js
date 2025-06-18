@@ -1,0 +1,1 @@
+// search.js – Search route placeholder

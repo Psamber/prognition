@@ -1,0 +1,1 @@
+// library.js – Library route placeholder
